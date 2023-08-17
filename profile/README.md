@@ -2,16 +2,16 @@
 
 ## :mag: O problema:
 
-...
+Melhorar o rastreio de equipamentos de alto valor agregado do acervo da Pirelli, e com isso mitigar a possibilidade de perda ou extravio de tablets / notebooks.
 
 ## :dart: O objetivo:
 
-...
+Criar uma solução em modelo IoT que permita o rastreio e a localização de tablets / notebooks da organização
 
 
 ## :jigsaw: O público-alvo:
 
-...
+Colaboradores internos da planta fabril.
 
 ## :computer: Prototipação de solução IoT:
 
